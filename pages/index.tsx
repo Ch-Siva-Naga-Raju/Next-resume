@@ -9,7 +9,7 @@ const index = () => {
   return <div className='flex flex-col px-6 pt-1'>
     <h5>I'm working as a Senior Software Engineer at Covalense Global.</h5>
     <div className='p-4 mt-5 bg-gray-400 rounded-lg' 
-    style={{marginLeft:'-1.5rem', marginRight:'-1.5rem', height: '80vh'}}>
+    style={{marginLeft:'-1.5rem', marginRight:'-1.5rem', height: '72vh'}}>
       <h6 className='my-3 text-xl font-bold tracking-wide'>My Services</h6>
       <div className='grid lg:grid-cols-2 gap-6 flex-grow'>
         {services.map((service: IService, index: Key) =>{ 

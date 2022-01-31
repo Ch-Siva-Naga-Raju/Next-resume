@@ -41,7 +41,7 @@ export const languages: ISkill[] = [
     },
     {
         name: 'Next',
-        level: '80%',
+        level: '50%',
         Icon: BsCircleFill
     },
     {
